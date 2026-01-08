@@ -36,3 +36,6 @@ This project strengthened my skills in data preprocessing, exploratory data anal
 [PROJECT NOTEBOOK ml .pdf](https://github.com/user-attachments/files/24498173/PROJECT.NOTEBOOK.ml.pdf)
 
 End-to-end analysis and visualization of global COVID-19 data using Python to identify trends and generate data-driven insights. (EDA, Visualization)
+
+## 👤 Author
+Sayantani Sarkar  
